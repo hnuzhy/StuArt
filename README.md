@@ -1,2 +1,3 @@
-# StuArt
-StuArt is a novel automatic system designed for the individualized classroom observation
+# StuArt: Individualized Classroom Observation of Students with Automatic Behavior Recognition and Tracking
+
+
