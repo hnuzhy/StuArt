@@ -30,11 +30,11 @@
 <th>Smiling</th>
 </tr>
 <tr>
-<td><img src="./pictures/figure2-handraising.png" height="64"></td>
-<td><img src="./pictures/figure2-standing.png" height="64"></td> 
-<td><img src="./pictures/figure2-sleeping.png" height="64"></td>
-<td><img src="./pictures/figure2-yawning.png" height="64"></td> 
-<td><img src="./pictures/figure2-smiling.png" height="64"></td> 
+<td><img src="./pictures/figure2-handraising.png" height="100"></td>
+<td><img src="./pictures/figure2-standing.png" height="100"></td> 
+<td><img src="./pictures/figure2-sleeping.png" height="100"></td>
+<td><img src="./pictures/figure2-yawning.png" height="100"></td> 
+<td><img src="./pictures/figure2-smiling.png" height="100"></td> 
 </tr>
 </table>
 
@@ -67,16 +67,16 @@ Qualitative behavior detection results. Yellow, green, cyan, red, blue and black
 <th>LinkList</th>
 </tr>
 <tr>
-<td><img src="./pictures/figure5-SeatTable.png" height="256"></td>
-<td><img src="./pictures/figure5-LinkList.png" height="256"></td> 
+<td><img src="./pictures/figure5-SeatTable.png" height="200"></td>
+<td><img src="./pictures/figure5-LinkList.png" height="200"></td> 
 </tr>
 <tr>
 <th>ActivateHeatmap</th>
 <th>PointFlow</th>
 </tr>
 <tr>
-<td><img src="./pictures/figure5-ActivateHeatmap.png" height="256"></td>
-<td><img src="./pictures/figure5-PointFlow.png" height="256"></td> 
+<td><img src="./pictures/figure5-ActivateHeatmap.png" height="200"></td>
+<td><img src="./pictures/figure5-PointFlow.png" height="200"></td> 
 </tr>
 </table>
 
