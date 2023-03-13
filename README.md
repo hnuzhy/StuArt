@@ -1,6 +1,6 @@
 # StuArt
 
-**Title:** *[StuArt: Individualized Classroom Observation of Students with Automatic Behavior Recognition and Tracking](https://arxiv.org/abs/2211.03127)*
+**Title:** *[StuArt: Individualized Classroom Observation of Students with Automatic Behavior Recognition and Tracking](https://arxiv.org/abs/2211.03127)* accepted by ICASSP2023
 
 * **Figure 2**
 
