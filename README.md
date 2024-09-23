@@ -2,6 +2,11 @@
 
 **Title:** *[StuArt: Individualized Classroom Observation of Students with Automatic Behavior Recognition and Tracking](https://arxiv.org/abs/2211.03127)* accepted by ICASSP2023
 
+* [***Notes***]
+  - I am very sorry to inform you that the dataset used cannot be made public due to the **privacy issues of primary school students**. Relevant researchers can only collect, annotate and process the data by themselves.
+  - The proposed **StuArt** has be integrated into our project [AIClass](https://hnuzhy.github.io/projects/AIClass/), which is an Automatic Teaching Assistance System Towards Classrooms for K-12 Education. Please refer it for more details.
+
+
 * **Figure 2**
 
 **Top:** examples of K-12 classroom scenarios. **Bottom:** some samples of annotated behaviors.
